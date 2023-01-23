@@ -1,0 +1,19 @@
+{
+  "version": "0.0.1",
+  "name": "@yetoman/store",
+  "license": "MIT",
+  "description": "A simple flat state/store that helps implementing lite-redux patterns",
+  "homepage": "README.md",
+  "keywords": [
+    "redux",
+    "store",
+    "redux-patterns"
+  ],
+  "peerDependencies": {
+    "rxjs": "^7.5.1",
+    "@yetoman/util": "^0.1.3"
+  },
+  "dependencies": {
+    "tslib": "^2.3.1"
+  }
+}
